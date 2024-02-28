@@ -32,7 +32,13 @@
           }
         ]
       },
-
+      {
+        "name": "BaseAbility",
+        "srcEntry": "./ets/entryability/base/BaseAbility.ts",
+        "icon": "$media:icon",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background"
+      }
     ]
   }
 }
